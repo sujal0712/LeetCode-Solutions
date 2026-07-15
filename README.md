@@ -31,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/sujal0712/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sujal0712/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -47,4 +48,8 @@
 | ------- | ------- |
 | [0198-house-robber](https://github.com/sujal0712/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->
