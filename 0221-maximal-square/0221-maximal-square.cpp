@@ -1,35 +1,38 @@
 class Solution {
 public:
-    int maximalSquare(vector<vector<char>>& matrix) {
+    int maxside= 0;
+    int solve(int row ,int col,vector<vector<int>>& dp,vector<vector<char>>& matrix){
         int m = matrix.size();
-        int n = matrix[0].size();
-
-        vector<vector<int>> dp(m, vector<int>(n, 0));
-
-        int maxSide = 0;
-
-        for (int row = 0; row < m; row++) {
-            for (int col = 0; col < n; col++) {
-
-                if (matrix[row][col] == '1') {
-
-                    // First row or first column
-                    if (row == 0 || col == 0) {
-                        dp[row][col] = 1;
-                    } else {
-                        int top = dp[row - 1][col];
-                        int left = dp[row][col - 1];
-                        int diagonal = dp[row - 1][col - 1];
-
-                        dp[row][col] =
-                            1 + min({top, left, diagonal});
-                    }
-
-                    maxSide = max(maxSide, dp[row][col]);
-                }
-            }
+        int n= matrix[0].size();
+        if (row >= m || col >= n) {
+            return 0;
         }
 
-        return maxSide * maxSide;
+        if (matrix[row][col] == '0') {
+            return 0;
+        }
+
+        if (dp[row][col] != -1) {
+            return dp[row][col];
+        }
+        int down = solve(row+1, col,dp, matrix);
+        int right = solve(row, col+1,dp, matrix);
+        int diagonal = solve(row+1, col+1,dp, matrix);
+        dp[row][col]= 1+ min({down , right , diagonal});
+        maxside= max(maxside, dp[row][col]);
+    
+        return dp[row][col];
+
+    }
+    int maximalSquare(vector<vector<char>>& matrix) {
+        int m = matrix.size();
+        int n= matrix[0].size();
+        vector<vector<int>> dp(m, vector<int>(n, -1));
+      for (int row = 0; row < m; row++) {
+    for (int col = 0; col < n; col++) {
+        solve(row, col, dp, matrix);
+    }
+}
+        return maxside * maxside;
     }
 };
