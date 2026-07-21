@@ -36,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/sujal0712/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sujal0712/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -57,6 +58,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/sujal0712/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sujal0712/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
