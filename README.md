@@ -41,6 +41,7 @@
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sujal0712/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sujal0712/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sujal0712/leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Math
@@ -63,6 +64,7 @@
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/sujal0712/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sujal0712/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## String
 | Problem Name | Difficulty |
