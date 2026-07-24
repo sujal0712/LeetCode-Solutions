@@ -10,7 +10,7 @@ public:
         }
         int sell= prices[i]+solve(i+2,1,prices,dp);
         int hold = solve(i+1,0, prices, dp);
-        return max(sell, hold);
+        return dp[i][buy]=max(sell, hold);
     }
     int maxProfit(vector<int>& prices) {
         int n= prices.size();
