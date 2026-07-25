@@ -31,6 +31,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/sujal0712/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -76,6 +77,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0072-edit-distance](https://github.com/sujal0712/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sujal0712/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -109,4 +111,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/sujal0712/leetcode/tree/main/0494-target-sum/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
