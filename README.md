@@ -89,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
+| [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,9 +123,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujal0712/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sujal0712/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujal0712/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
