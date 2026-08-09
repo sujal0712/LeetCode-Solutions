@@ -78,6 +78,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/sujal0712/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sujal0712/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sujal0712/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/sujal0712/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
