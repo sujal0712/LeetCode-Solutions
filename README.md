@@ -77,6 +77,7 @@
 | [0322-coin-change](https://github.com/sujal0712/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/sujal0712/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/sujal0712/leetcode/tree/main/0494-target-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sujal0712/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sujal0712/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## String
@@ -94,6 +95,7 @@
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sujal0712/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sujal0712/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sujal0712/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
