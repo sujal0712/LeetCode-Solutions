@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/sujal0712/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -86,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/sujal0712/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sujal0712/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
@@ -125,6 +127,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0494-target-sum](https://github.com/sujal0712/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -188,4 +191,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sujal0712/leetcode/tree/main/0148-sort-list/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
