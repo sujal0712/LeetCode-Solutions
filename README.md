@@ -90,6 +90,7 @@
 | [0091-decode-ways](https://github.com/sujal0712/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sujal0712/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
+| [0443-string-compression](https://github.com/sujal0712/leetcode/tree/main/0443-string-compression/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sujal0712/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@
 | [0148-sort-list](https://github.com/sujal0712/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal0712/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0443-string-compression](https://github.com/sujal0712/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sujal0712/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
