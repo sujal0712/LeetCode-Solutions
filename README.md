@@ -67,6 +67,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sujal0712/leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -119,6 +120,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/sujal0712/leetcode/tree/main/0704-binary-search/) | Easy |
