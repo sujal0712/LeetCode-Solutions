@@ -67,6 +67,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sujal0712/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
@@ -118,6 +119,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/sujal0712/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sujal0712/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
