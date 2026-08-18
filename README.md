@@ -89,6 +89,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/sujal0712/leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -100,6 +101,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sujal0712/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -210,4 +212,8 @@
 | [1683-invalid-tweets](https://github.com/sujal0712/leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/sujal0712/leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/sujal0712/leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
