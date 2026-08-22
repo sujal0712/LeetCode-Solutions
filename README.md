@@ -91,6 +91,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0020-valid-parentheses](https://github.com/sujal0712/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/sujal0712/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/sujal0712/leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -178,6 +179,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sujal0712/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/sujal0712/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Prefix Sum
@@ -205,6 +207,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sujal0712/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Database
 | Problem Name | Difficulty |
