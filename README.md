@@ -79,6 +79,7 @@
 | [0213-house-robber-ii](https://github.com/sujal0712/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/sujal0712/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
+| [0283-move-zeroes](https://github.com/sujal0712/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sujal0712/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0312-burst-balloons](https://github.com/sujal0712/leetcode/tree/main/0312-burst-balloons/) | Hard |
@@ -185,6 +186,7 @@
 | [0148-sort-list](https://github.com/sujal0712/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sujal0712/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/sujal0712/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/sujal0712/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sujal0712/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
