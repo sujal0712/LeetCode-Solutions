@@ -78,6 +78,7 @@
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sujal0712/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/sujal0712/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sujal0712/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/sujal0712/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/sujal0712/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0221-maximal-square](https://github.com/sujal0712/leetcode/tree/main/0221-maximal-square/) | Medium |
@@ -141,6 +142,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/sujal0712/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/sujal0712/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/sujal0712/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sujal0712/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -202,6 +204,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sujal0712/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sujal0712/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -241,6 +244,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/sujal0712/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
