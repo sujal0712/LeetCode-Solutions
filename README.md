@@ -111,6 +111,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sujal0712/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sujal0712/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0443-string-compression](https://github.com/sujal0712/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/sujal0712/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/sujal0712/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -126,6 +127,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sujal0712/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sujal0712/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sujal0712/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0567-permutation-in-string](https://github.com/sujal0712/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/sujal0712/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0443-string-compression](https://github.com/sujal0712/leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/sujal0712/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sujal0712/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -248,6 +251,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/sujal0712/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sujal0712/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sujal0712/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/sujal0712/leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
