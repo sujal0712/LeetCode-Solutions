@@ -33,6 +33,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/sujal0712/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/sujal0712/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/sujal0712/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/sujal0712/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/sujal0712/leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -73,6 +74,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sujal0712/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sujal0712/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sujal0712/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sujal0712/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0139-word-break](https://github.com/sujal0712/leetcode/tree/main/0139-word-break/) | Medium |
@@ -191,6 +193,7 @@
 | [0011-container-with-most-water](https://github.com/sujal0712/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sujal0712/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sujal0712/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sujal0712/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/sujal0712/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sujal0712/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sujal0712/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -206,6 +209,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sujal0712/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/sujal0712/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/sujal0712/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sujal0712/leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/sujal0712/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -270,5 +274,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/sujal0712/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sujal0712/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
